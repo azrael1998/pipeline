@@ -1,5 +1,6 @@
 pipeline 
 {
+   agents any
    stages
      {
 	stage("print")
